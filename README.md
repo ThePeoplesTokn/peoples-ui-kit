@@ -14,7 +14,7 @@ Before using Peoples UIkit, you need to provide the theme file to styled-compone
 
 ```
 import { ThemeProvider } from 'styled-components'
-import { light, dark } from '@pantherswap-libs/uikit'
+import { light, dark } from 'peoples-ui-kit'
 ...
 <ThemeProvider theme={isDark}>...</ThemeProvider>
 ```
